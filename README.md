@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1526649661456-89c7ed4d00b8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=871&q=80)]("https://github.com/jas-karan")
+[![MasterHead](https://recruitingsocial.com/wp-content/uploads/2015/05/coding-header.jpg)]("https://github.com/jas-karan")
 
 #  Glad to see you here    ![visitors](https://visitor-badge.glitch.me/badge?page_id=$jas-karan)
 # Hi, I am Jaskaran :wave: 
