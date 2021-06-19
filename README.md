@@ -15,7 +15,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas-karan&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jas-karan)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jas-karan&theme=dark)](https://git.io/streak-stats)
 <!---
 jas-karan/jas-karan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
