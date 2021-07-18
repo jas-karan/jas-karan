@@ -56,7 +56,7 @@ I am a second year undergraduate at The LNM Institute of Information Technology.
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/0nbmkiop3o4h6ubw22ndnsd0s)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0nbmkiop3o4h6ubw22ndnsd0s&cover_image=false&theme=default)](https://open.spotify.com/user/0nbmkiop3o4h6ubw22ndnsd0s)
 
 <hr>
 
