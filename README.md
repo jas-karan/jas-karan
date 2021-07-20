@@ -3,9 +3,6 @@
 ![cover photo](https://imgur.com/rilHVxA.png)
 
 <p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=jas-karan.jas-karan)
-    <a href="https://github.com/jas-karan/"><img src="https://img.shields.io/github/followers/jas-karan?style=social"/></a>
     <a href="https://github.com/jas-karan?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <a href="https://jaskaran262.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https://jaskaran262.netlify.app/"/></a>
 </p>
