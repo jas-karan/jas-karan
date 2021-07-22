@@ -1,5 +1,5 @@
 ## Hi there <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> I'm Jaskaran Singh.
-### I am a passionate open source contributor and a full stack developer.
+### I am a passionate full stack developer.
 ![cover photo](https://imgur.com/rilHVxA.png)
 
 <p>
