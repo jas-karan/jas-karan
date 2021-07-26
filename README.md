@@ -4,7 +4,7 @@
 
 <p>
     <a href="https://github.com/jas-karan?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <a href="https://jaskaran262.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https://jaskaran262.netlify.app/"/></a>
+   <!-- <a href="https://jaskaran262.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https://jaskaran262.netlify.app/"/></a> -->
 </p>
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
@@ -54,7 +54,7 @@ I am a second year undergraduate at The LNM Institute of Information Technology.
 </p>
 
 <hr>
-
+<!--
 <img align="right" alt="GIF" height="215px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
@@ -62,17 +62,17 @@ I am a second year undergraduate at The LNM Institute of Information Technology.
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=0nbmkiop3o4h6ubw22ndnsd0s&cover_image=false&theme=default)](https://open.spotify.com/user/0nbmkiop3o4h6ubw22ndnsd0s)
 
 <hr>
-
+-->
 <div>
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href= "https://github.com/jas-karan"><img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href= "https://dev.to/jaskaran"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <!--  <a href= "https://dev.to/jaskaran"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a> -->
   <a href= "https://www.linkedin.com/in/jaskaran262/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href= "https://twitter.com/avgDel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<!--  <a href= "https://twitter.com/avgDel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
   <a href= "mailto:262jaskaran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href= "https://discord.com/channels/Jaskaran#1614"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-   <a href= "https://leetcode.com/jas-karan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <!--  <a href= "https://leetcode.com/jas-karan/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> -->
     
 </p>
 </div>
