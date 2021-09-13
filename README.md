@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-I am a second year undergraduate at The LNM Institute of Information Technology. Open Source software excites me, and I am ever ready to learn more. I am eagerly waiting to contribute to interesting open-source projects.
+I am a pre final year undergraduate at The LNM Institute of Information Technology. Open Source software excites me, and I am ever ready to learn more. I am eagerly waiting to contribute to interesting open-source projects.
 
 - 🔭 I’m currently working on a dynamic chatbot. 
 - 🌱 I’m currently learning Web Technologies.
