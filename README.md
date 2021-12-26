@@ -4,7 +4,7 @@
 
 <p>
     <a href="https://github.com/jas-karan?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <a href="https://krnjs-sde.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url="https://jkaran-portfolio.netlify.app/"/></a> 
+    <a href="https://jkaran-portfolio.netlify.app/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url="https://jkaran-portfolio.netlify.app/"/></a> 
 </p>
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
