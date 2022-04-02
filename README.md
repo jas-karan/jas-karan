@@ -1,5 +1,5 @@
 ## Hi there <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> I'm Jaskaran Singh.
-### I am a passionate full stack developer.
+### I like to build websites.
 ![cover photo](https://imgur.com/rilHVxA.png)
 
 <p>
@@ -10,14 +10,6 @@
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 I am a pre final year undergraduate at The LNM Institute of Information Technology. Open Source software excites me, and I am ever ready to learn more. I am eagerly waiting to contribute to interesting open-source projects.
-
-- 🔭 I’m currently working on a dynamic chatbot. 
-- 🌱 I’m currently learning Web Technologies.
-- 👯 I’m looking forward to collaborate in any interesting project. 
-- 💬 Talk with me about technology, Movies and Music (I love Punjabi&English Music). 
-- ⚡ My Motto: Success is not how much money you make, it is how much difference you bring in people's lives. 
-
-
 
 
 
