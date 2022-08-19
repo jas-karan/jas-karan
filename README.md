@@ -7,8 +7,8 @@
 💡 &nbsp;I like to build efficient software solutions to the real world problems that eases the life of the people in some way.\
 🎓 &nbsp;I'm currently studying Computer Science at The LNM Institute of Information Technology, India.\
 🌱 &nbsp;I'm currently learning Frontend Development, Backend Development, Cloud Architecture and Blockchain Technologies.\
-✍️ &nbsp;Feel free to connect with me! I'm always open to collaborating with dedicated people on interesting projects.\
 💬 &nbsp;I am experienced in developing programs in Java and JavaScript and also acquainted with SQL.\
+✍️ &nbsp;Feel free to connect with me! I'm always open to collaborating with dedicated people on interesting projects.\
 ✉️ &nbsp;You can shoot me an email at 262jaskaran@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1TjW4jxi7BFmyNRAJc8GVQGjjOnZ75tNC/view?usp=sharing). I'm open to any kind of suggestions!
   
