@@ -26,7 +26,8 @@
 ![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=red)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&&logo=markdown)\
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&&logo=MySQL&logoColor=orange)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&&logo=MySQL&logoColor=orange)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&&logo=Git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&&logo=visual-studio-code&logoColor=007ACC)&nbsp;
