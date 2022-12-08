@@ -34,7 +34,7 @@
 </div>
 
 <h3 align="center">⚙️ GitHub Analytics</h3>
-<img   src="https://activity-graph.herokuapp.com/graph?username=jas-karan&theme=react-dark&line=FF1493&color=ff389c" alt="praneeth](https://activity-graph.herokuapp.com/graph?username=jas-karan&theme=react-dark&line=FF1493&color=ff389c)" />
+
 <p align="center">
 <a href="https://github.com/jas-karan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jas-karan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
